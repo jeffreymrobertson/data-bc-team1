@@ -16,12 +16,12 @@ This is a team project done for the Data Analysis Bootcamp.   It is focusing on 
 
 
 ## Usage
-  https://github.com/jeffreymrobertson/data-bc-team1
+  All files contained can be found at the following https://github.com/jeffreymrobertson/data-bc-team1
 
 ## Sources
-  Code used from https://www.kaggle.com/code/ajaykarthick77/eda-fashion-dataset
-  data set from https://www.kaggle.com/datasets/a23bisola/fashion-dataset-uk-us
-  Slide deck from Slidgo, including icons by Flaticon, and infographics & Images from Freepik http://bit.ly/30B07Gq
+    Code used from https://www.kaggle.com/code/ajaykarthick77/eda-fashion-dataset
+    data set from https://www.kaggle.com/datasets/a23bisola/fashion-dataset-uk-us
+    Slide deck from Slidgo, including icons by Flaticon, and infographics & Images from Freepik http://bit.ly/30B07Gq
 ## Contributing
 	Jeffrey Robertson
  	Neel Chunara
