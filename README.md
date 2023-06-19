@@ -22,7 +22,7 @@ Clone the github located at https://github.com/jeffreymrobertson/Python-Challeng
 Code used from https://www.kaggle.com/code/ajaykarthick77/eda-fashion-dataset
 data set from https://www.kaggle.com/datasets/a23bisola/fashion-dataset-uk-us
 ## Contributing
-# Jeffrey Robertson
-# Neel Chunara
-# Ruby Landry
-# Shelly Sakkerwal
+	Jeffrey Robertson
+ 	Neel Chunara
+ 	Ruby Landry
+ 	Shelly Sakkerwal
